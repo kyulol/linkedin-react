@@ -1,0 +1,9 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './assets/style.scss';
+@import './Components/home/home.scss';
+@import './Components/navbar/navbar.scss';
+
